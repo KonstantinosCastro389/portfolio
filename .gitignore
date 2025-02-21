@@ -3,3 +3,4 @@ build/
 *.pyc
 dist/
 .DS_Store
+coverage/
